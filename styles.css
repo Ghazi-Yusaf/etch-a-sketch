@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin: 25px 40px;
+}
+
+.gridSquare {
+    border-style: dashed;
+    border-width: 1px;
+    border-color: darkgrey;
+}
+
+#grid {
+    display: grid;
+    height: 800px;
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
